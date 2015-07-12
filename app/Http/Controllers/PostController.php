@@ -11,6 +11,11 @@ use App\Post;
 
 class PostController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware('auth');
+    }
+
     /**
      * Display a listing of the resource.
      *
@@ -35,12 +40,13 @@ class PostController extends Controller
 
         Log::debug($content);
 
+        $user = $request->user();
 
         $post = new Post;
         $post->postType = 'TXT';
         $post->postDate = date("Y-m-d H:i:s");
         $post->content = $content;
-        $post->user_id = 1;
+        $post->user_id = Auth::id();
         $post->save();
 
 

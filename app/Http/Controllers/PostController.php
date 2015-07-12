@@ -46,7 +46,7 @@ class PostController extends Controller
         $post->postType = 'TXT';
         $post->postDate = date("Y-m-d H:i:s");
         $post->content = $content;
-        $post->user_id = Auth::id();
+        $post->user_id = $request->user()->id;
         $post->save();
 
 

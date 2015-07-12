@@ -5,7 +5,7 @@
 
 
             <div class="page-header">
-                <h2>PHPio</h2>
+                <h2>PHPio - <?php echo $userName ?> </h2>
                 <h4>Posty 2.0</h4>
             </div>
 

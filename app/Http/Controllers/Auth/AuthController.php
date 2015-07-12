@@ -21,6 +21,9 @@ class AuthController extends Controller
     |
     */
 
+    protected $redirectPath = '/feed';
+    protected $loginPath = '/login';
+
     use AuthenticatesAndRegistersUsers, ThrottlesLogins;
 
     /**

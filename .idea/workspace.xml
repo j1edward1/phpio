@@ -92,8 +92,8 @@
       <file leaf-file-name="web.config" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/web.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21159874">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.42319748">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -669,7 +669,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436664375860</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Removed PHP configuration from web.config">
+      <created>1436664649067</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1436664649067</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -708,7 +714,8 @@
     <MESSAGE value="Add Csrf support (Cookie issue)" />
     <MESSAGE value="Changed Application Title" />
     <MESSAGE value="Updated PHP configuration in web.config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated PHP configuration in web.config" />
+    <MESSAGE value="Removed PHP configuration from web.config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed PHP configuration from web.config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1054,8 +1061,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/web.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21159874">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.42319748">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding />
         </state>
       </provider>

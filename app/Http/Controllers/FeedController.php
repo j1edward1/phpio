@@ -9,6 +9,11 @@ use App\Http\Controllers\Controller;
 
 class FeedController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware('auth');
+    }
+
     /**
      * Display a listing of the resource.
      *
@@ -16,6 +21,8 @@ class FeedController extends Controller
      */
     public function index()
     {
+
+
         return view('feed.index');
     }
 }

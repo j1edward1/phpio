@@ -92,8 +92,8 @@
       <file leaf-file-name="web.config" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/web.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42319748">
-              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.47021943">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -675,7 +675,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436664649067</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Updated PHP configuration in web.config for PHP 5.5">
+      <created>1436664857604</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1436664857604</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -715,7 +721,8 @@
     <MESSAGE value="Changed Application Title" />
     <MESSAGE value="Updated PHP configuration in web.config" />
     <MESSAGE value="Removed PHP configuration from web.config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed PHP configuration from web.config" />
+    <MESSAGE value="Updated PHP configuration in web.config for PHP 5.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated PHP configuration in web.config for PHP 5.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1061,8 +1068,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/web.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42319748">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.47021943">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding />
         </state>
       </provider>

@@ -6,7 +6,7 @@
 
             <div class="page-header">
                 <h2>PHPio</h2>
-                <h4>Posty</h4>
+                <h4>Posty 2.0</h4>
             </div>
 
 
